@@ -39,6 +39,10 @@ We welcome contributions to enhance **TeamVsTeam**! If you have ideas, bug repor
 
 **TeamVsTeam** is licensed under the [MIT License](LICENSE).
 
+## Discord
+
+Join our discord server at: [TeamVsTeam](https://discord.gg/YJHJxFe3mJ)
+
 ## Contact
 
 For support or any inquiries, feel free to reach out to us at [Thebloxers9985@outlook.com].
